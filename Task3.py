@@ -1,9 +1,5 @@
-a = 7
-b = 2
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a ** b)
-print(a % b)
-print(a // b)
+a = input('2 + 2 = ')
+if a == '4':
+    print("You're goddamn right!")
+else:
+    print('You are wrong')
